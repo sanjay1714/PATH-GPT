@@ -1,0 +1,8 @@
+.env
+__pycache__/
+.venv/
+py.cmd
+python.cmd
+cloudflared.exe
+*.log
+.streamlit/credentials.toml

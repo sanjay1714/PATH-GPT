@@ -1,0 +1,4 @@
+# Core PATH.GPT Dependencies
+google-genai>=2.34.0
+streamlit>=1.40.0
+python-dotenv>=1.0.0
